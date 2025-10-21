@@ -12,3 +12,5 @@ matplotlib
 SARIMAX
 altair
 statsmodels
+LinearRegression
+timedelta
